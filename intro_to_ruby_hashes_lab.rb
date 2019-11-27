@@ -5,8 +5,6 @@ end
 def my_hash
   {
     :name <= James,
-    age: 84,
-    gender: male
   }
 end
 
