@@ -4,7 +4,7 @@ end
 
 def my_hash
   {
-    name: James,
+    :name <= James,
     age: 84,
     gender: male
   }
