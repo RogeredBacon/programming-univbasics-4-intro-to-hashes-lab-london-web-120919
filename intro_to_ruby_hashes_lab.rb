@@ -1,9 +1,9 @@
 def new_hash
-  new_hash = {}
+  {}
 end
 
 def my_hash
-  new_hash = {
+  {
     name: James,
     age: 84,
     gender: male
